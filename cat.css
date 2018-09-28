@@ -1,0 +1,16 @@
+/* Purrfect Match 
+CSS Style Sheet */
+
+h1 {
+	color: purple;
+}
+h3 {
+	color: white;
+}
+#content {
+	text-align: right;
+	padding-top: 25%;
+}
+body {
+	background-image: url("cat.jpeg");
+}
